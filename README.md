@@ -40,7 +40,7 @@ If you are interested in any of our services or have any inquiries, feel free to
 
 - **Email**: info@axoneinfotech.com
 - **Phone**: +91 9265487501
-- **Website**: [www.axoneit.com]([https://axoneit.com])
+- **Website**: https://axoneit.com
 
 We look forward to helping your business thrive!
 
